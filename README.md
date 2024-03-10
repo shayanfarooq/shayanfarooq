@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shayan Farooq</h1>
-<h3 align="center">Passionate about new things.</h3>
+<h1 align="center">Hi, I'm Shayan Farooq</h1>
+<h3 align="center">ᏢᎯᏕᏕᎨᎾᏁᎯᏖᎬ ᎯᏰᎾᏬᏖ ᏁᎬᏯ ᏖᎻᎨᏁᎶᏕ.</h3>
+<h3 align="center">ᙏᖻ ᙖᓰᘜᘜᙓSᖶ ᙅᖇᓰᙏᙓ ᓰS ƆՈᴚIOSIꞱ⅄</h3>
 
-- 🌱 I’m currently learning **Pentesting**
-
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently practicing **卩乇几丁乇丂丁丨几ꮆ
 <p align="left">
 </p>
 
